@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HteSxb6naY6cybbAiy41310oq7sy6D2WHW6UTbuX7Ys7Kl5bSKtlcn1PqJWapQDzCQOOzY/3ZWVKOCWKzAkGbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rauf\\source\\repos\\Class.,Inheritance Homework\\Class.,Inheritance Homework\\Class.,Inheritance Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rauf\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
